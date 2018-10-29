@@ -1,8 +1,4 @@
--- Credits: Marmota#2533
-local Proxy = module("vrp", "lib/Proxy")
 local Tunnel =  module("vrp", "lib/Tunnel")
-
-vRP = Proxy.getInterface("vRP")
 
 hud = Tunnel.getInterface("vrp_iconhud","vvrp_iconhud")
 
