@@ -4,17 +4,14 @@ ui_page "ui.html"
 files {
     "ui.html",
     "ui.css",
-    "ui.js",
-    "heartbeat-solid.svg",
-    "shield-alt-solid.svg"
+    "ui.js"
 }
 
-client_scripts{
-    "@vrp/lib/utils.lua",
-    "client.lua"
+client_script{
+    'client.lua'
 }
 
-server_scripts {
-    "@vrp/lib/utils.lua",
-    "server.lua"
+server_script{
+    '@vrp/lib/utils.lua',
+    'server.lua'
 }
