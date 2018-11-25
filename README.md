@@ -1,7 +1,5 @@
 # vrp_betterhud
 **Credits:**
-
- - iGaabriel for the design of the hud. 
   
  - Marmota for all the codes and rest.
 
