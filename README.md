@@ -1,4 +1,4 @@
-# vrp_iconhud
+# vrp_betterhud
 **Credits:**
 
  - iGaabriel for the design of the hud. 
@@ -13,6 +13,6 @@
 **Screenshots:**
 
 
-![Screenshot](https://i.imgur.com/qpd6fFe.png)
-![Screenshot](https://i.imgur.com/cUHGOwf.jpg)
+![Screenshot](https://i.imgur.com/d2eruQL.png)
+![Screenshot](https://i.imgur.com/0QROv7F.jpg)
 
