@@ -1,16 +1,15 @@
-# vrp_betterhud
+# vrp_iconhud
+
 **Credits:**
-  
- - Marmota for all the codes and rest.
-
-**How to install:**
-
- - Put the folder on the resources folder and start it on server.cfg.
+  - iGaabriel for the design of the hud. 
+  - Marmota for all the codes and rest.
 
 
-**Screenshots:**
+ **How to install:**
+  - Put the folder on the resources folder and start it on server.cfg.
 
 
-![Screenshot](https://i.imgur.com/d2eruQL.png)
-![Screenshot](https://i.imgur.com/0QROv7F.jpg)
+ **Screenshots:**
 
+![Screenshot](https://i.imgur.com/qpd6fFe.png)
+![Screenshot](https://i.imgur.com/cUHGOwf.jpg)
